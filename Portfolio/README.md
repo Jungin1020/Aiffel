@@ -5,8 +5,9 @@
 
 <h5 align="center">아이펠은 모두의 연구소에서 만든 자기주도적 AI 학습 커뮤니티입니다.
 <h5 align="center">초반에는 인공지능 관련 개념과 교양을 배우고 짧은 프로젝트들로 경험을 쌓은 뒤, 후반에 심화학습을 통해 전문성을 높이는 방식으로 진행됩니다.
-<h5 align="center">https://aiffel.io/
-  
+<h5 align="center">https://aiffel.io/   
+     
+     
   
 
 </div>
@@ -26,12 +27,19 @@
   
   
 ## deep-learning-from-scratch-3
-  [밑바닥부터 시작하는 딥러닝3](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162243596)를 보며 직접 딥러닝 프레임워크를 제작 중입니다.(그룹스터디 기간: 2022.04.06 ~ 2022.05.25)
-  
+  [밑바닥부터 시작하는 딥러닝3](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162243596)를 보며 직접 딥러닝 프레임워크를 제작 중입니다.
+  - 그룹스터디 기간: 2022.04.06 ~ 2022.05.25
   - [init.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/__init__.py)
   - [core.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/core.py)
   - [utils.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/utils.py)
   - [functions.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/functions.py)
+  
+  
+## hackathon
+  [KBO 데이터분석 & 시각화](https://github.com/Jungin1020/Aiffel/blob/main/kbo_datathon_11th.ipynb)
+  - 기간: 2022.03.08 ~ 2022.03.11
+  - 역할: 데이터 분석 방향설계, 스토리 라인, PPT 준비
+  - [PPT]()
   
   
 ## Figma
