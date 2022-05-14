@@ -39,7 +39,6 @@
   [KBO 데이터분석 & 시각화](https://github.com/Jungin1020/Aiffel/blob/main/kbo_datathon_11th.ipynb)
   - 기간: 2022.03.08 ~ 2022.03.11
   - 역할: 데이터 분석 방향설계, 스토리 라인, PPT 준비
-  - [PPT]()
   
   
 ## Figma
