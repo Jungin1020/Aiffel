@@ -35,7 +35,7 @@
   
   
 ## Figma
-  피그마에 정리하는 습관을 들이고 있습니다.(토론의 장으로도 쓰이기 때문에 가독성은 떨어집니다)
+  피그마에 정리하는 습관을 들이고 있습니다.(토론의 장으로도 쓰기 위해 만들었기 때문에 가독성은 떨어집니다)
   - [ResNet 구현 정리](https://www.figma.com/file/Lg5fATrObCkthYPzKMQLHk/Resnet-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0?node-id=0%3A1)
   - [UNet 구현 + Segmentation 정리](https://www.figma.com/file/91fZ6JLUeSPWcKNJKRXAD1/2022.03.31_GD_Segmentation?node-id=0%3A1)
   - [Class Activation Map 정리](https://www.figma.com/file/rawyngNS0kFVwQTILchUhc/CAM---Explainable-Artificial-Intelligence?node-id=0%3A1)
