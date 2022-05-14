@@ -21,13 +21,14 @@
   - [X-Ray 데이터 다루기](https://github.com/Jungin1020/Aiffel/blob/main/2022_02_03_exp_9_lung_x_ray.ipynb)
   - [OCR](https://github.com/Jungin1020/Aiffel/blob/main/2022_04_07_GD_12_OCR.ipynb)
   - [생성모델 DCGAN](https://github.com/Jungin1020/Aiffel/blob/main/2022_02_13_DCGAN_CIFAR10.ipynb)
+  - [조건있는 생성모델 cGAN & Pix2Pix](https://github.com/Jungin1020/Aiffel/blob/main/2022_03_14_exp_17_pix2pix.ipynb)
   
   
   
 ## deep-learning-from-scratch-3
   [밑바닥부터 시작하는 딥러닝3](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162243596)를 보며 직접 딥러닝 프레임워크를 제작 중입니다.(그룹스터디 기간: 2022.04.06 ~ 2022.05.25)
   
-  - [__init__.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/__init__.py)
+  - [init.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/__init__.py)
   - [core.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/core.py)
   - [utils.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/utils.py)
   - [functions.py](https://github.com/Jungin1020/Aiffel/blob/main/dezero/functions.py)
