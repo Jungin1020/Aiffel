@@ -18,8 +18,10 @@
   - [UNet 구현 + Segmentation](https://github.com/Jungin1020/Aiffel/blob/main/2022_04_04_GD_10_segmentation.ipynb)
   - [Class Activation Map 만들기](https://github.com/Jungin1020/Aiffel/blob/main/2022_04_02_GD_6_CAM.ipynb)
   - [다양한 이미지 Augmentation](https://github.com/Jungin1020/Aiffel/blob/main/22_03_27_GD_4_cutmix_final.ipynb)
-  - [Object Detection]()
+  - [X-Ray 데이터 다루기](https://github.com/Jungin1020/Aiffel/blob/main/2022_02_03_exp_9_lung_x_ray.ipynb)
   - [OCR](https://github.com/Jungin1020/Aiffel/blob/main/2022_04_07_GD_12_OCR.ipynb)
+  - [생성모델 DCGAN](https://github.com/Jungin1020/Aiffel/blob/main/2022_02_13_DCGAN_CIFAR10.ipynb)
+  
   
   
 ## deep-learning-from-scratch-3
