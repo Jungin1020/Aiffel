@@ -23,6 +23,7 @@
   - [OCR](https://github.com/Jungin1020/Aiffel/blob/main/2022_04_07_GD_12_OCR.ipynb)
   - [생성모델 DCGAN](https://github.com/Jungin1020/Aiffel/blob/main/2022_02_13_DCGAN_CIFAR10.ipynb)
   - [조건있는 생성모델 cGAN & Pix2Pix](https://github.com/Jungin1020/Aiffel/blob/main/2022_03_14_exp_17_pix2pix.ipynb)
+  - [기타 프로젝트](https://github.com/Jungin1020/Aiffel)
   
   
   
