@@ -1,5 +1,5 @@
 <h1 align="center"> <br>Jung in's Portfolio</h1>
-<h3 align="center">현재 AI 혁신학교 아이펠 수강 중</h3>
+<h3 align="center">AI 혁신학교 아이펠 수료</h3>
 <h5 align="center">  2021.12.27 ~ 2022.06.10 </h5>
 <h3 align="center">-</h3>
 
